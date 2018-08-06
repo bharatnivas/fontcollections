@@ -5,3 +5,10 @@
     font-weight: normal;
     font-style: normal;
   }
+@font-face {
+    font-family: "meta-caps";
+    src: url("../fonts/Gilroy-Light.eot?#iefix") format("embedded-opentype"),
+      url("../fonts/Meta-Caps.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+  }
