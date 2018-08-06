@@ -12,3 +12,11 @@
     font-weight: normal;
     font-style: normal;
   }
+@font-face {
+    font-family: "meta-normal";
+    src: url("../fonts/Gilroy-Light.eot?#iefix") format("embedded-opentype"),
+      url("../fonts/meta-normal.ttf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+  }
+
