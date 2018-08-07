@@ -3,6 +3,11 @@ body {
     height: 100%;
     padding: 0 !important;
   }
+  p{
+      padding:0;
+      margin: 0;
+      font-size: 25px;
+  }
 h1{
  font-family: "MetaBold-Roman",sans-serif;
 }
@@ -14,4 +19,14 @@ h3{
 }
 h4{
 font-family:"meta-normal",sans-serif;
+}
+.newfont-Sailec-Bold {
+    font-family: Sailec-Bold;
+    padding: 0;
+}
+.newfont-Sailec-Light {
+    font-family: Sailec-Light;
+}
+.newfont-Sailec-Regular {
+    font-family: Sailec-Regular;
 }

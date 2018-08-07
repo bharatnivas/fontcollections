@@ -19,4 +19,24 @@
     font-weight: normal;
     font-style: normal;
   }
-
+  @font-face {
+    font-family: "Sailec-Bold";
+    src: url("../fonts/Gilroy-Light.eot?#iefix") format("embedded-opentype"),
+      url("../fonts/Sailec-Bold.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "Sailec-Light";
+    src: url("../fonts/Gilroy-Light.eot?#iefix") format("embedded-opentype"),
+      url("../fonts/Sailec-Light.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "Sailec-Regular";
+    src: url("../fonts/Gilroy-Light.eot?#iefix") format("embedded-opentype"),
+      url("../fonts/Sailec-Regular.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+  }
