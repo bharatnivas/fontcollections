@@ -40,3 +40,25 @@
     font-weight: normal;
     font-style: normal;
   }
+  @font-face {
+    font-family: "MetaBoldLF-Roman";
+    src: url("../fonts/Gilroy-Light.eot?#iefix") format("embedded-opentype"),
+      url("../fonts/metaboldlf-webfont.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "MetaMedium-Caps";
+    src: url("../fonts/Gilroy-Light.eot?#iefix") format("embedded-opentype"),
+      url("../fonts/metamediumlf-capsregular.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "MetaNormalLF-Roman";
+    src: url("../fonts/Gilroy-Light.eot?#iefix") format("embedded-opentype"),
+      url("../fonts/metanormal-webfont.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+  }
+
