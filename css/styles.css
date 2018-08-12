@@ -24,9 +24,27 @@ body {
     border-radius: 55px;
     text-transform: uppercase;
 }
-h1{
- font-family: "MetaBold-Roman",sans-serif;
+.logofix img{
+    max-width: 100%;
 }
+.sectionone{
+    background-color:red;
+    padding:30px;
+}
+.fontbox{
+    background-color: #fff;
+    padding:30px;
+    margin: 10px;
+}
+.fontbox > a {
+    padding: 5px;
+    background: red;
+    color: #fff;
+    font-weight: bold;
+}
+/* h1{
+ font-family: "MetaBold-Roman",sans-serif;
+} */
 h2{
     font-family: meta-caps,sans-serif;
 }
@@ -55,6 +73,16 @@ font-family:"meta-normal",sans-serif;
 .newfont-MetaNormalLF-Roman {
     font-family: MetaNormalLF-Roman;
 }
+.MetaBoldLF-Roman h1 {
+    font-family: MetaBoldLF-Roman;
+}
+.MetaRomanBold h1 {
+    font-family: "meta",sans-serif;
+}
+.MetaCaps h1 {
+    font-family: "MetaCaps",sans-serif;
+    font-style: normal;
+}
 @media only screen and (max-width: 2000px) {
     .mobileview img {
      display: none;
@@ -69,6 +97,9 @@ font-family:"meta-normal",sans-serif;
 .banner img{
     display: none;
 }
-.mobileview{
+.fontbox img {
+    width: 100%;
+    padding: 0px;
+    min-height: 31px;
 }
 }
